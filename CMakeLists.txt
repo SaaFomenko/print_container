@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18)
 
-project(print_conteiner)
+project(print_container)
 
 # set the C++ standard
 set(CMAKE_CXX_STANDARD 17)
